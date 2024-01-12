@@ -458,6 +458,8 @@ $uploadedImages = $stmtFetchImages->fetchAll(PDO::FETCH_ASSOC);
                 integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
 
 <script>
+//WASASWAASA
+
 
 $(document).ready(function () {
     // Bind events after the document is ready
